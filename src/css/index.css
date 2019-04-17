@@ -1,0 +1,16 @@
+root {
+    --primary-color : salmon
+}
+
+html {
+  color: var(--primary-color);
+  font-size: 0.9rem;
+}
+
+.foo {
+    color: white; 
+}
+
+.foo .bar {
+    color : blue;
+}

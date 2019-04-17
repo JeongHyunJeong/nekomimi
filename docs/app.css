@@ -1,0 +1,20 @@
+.heading__text--1s4bf {
+    text-align: center;
+    font-family : sans-serif;
+}
+root {
+    --primary-color : salmon
+}
+
+html {
+  color: var(--primary-color);
+  font-size: 0.9rem;
+}
+
+.index__foo--3SK93 {
+    color: white; 
+}
+
+.index__foo--3SK93 .index__bar--tQU3G {
+    color : blue;
+}
